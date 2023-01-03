@@ -1,0 +1,5 @@
+config.txt
+data/
+
+# semua file yang extensi filenya exe akan di ignore 
+*.exe 
